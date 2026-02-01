@@ -5,6 +5,7 @@ This project performs an end-to-end **data cleaning and exploratory analysis** o
 
 The analysis focuses on understanding **city-wise restaurant density, pricing behaviour, ratings, cuisine distribution, and online delivery trends**, converting raw marketplace data into **business-relevant insights**.
 
+Link to the Original Dataset -- https://www.kaggle.com/datasets/gauravkumar2525/zomato-restaurant-dataset
 ---
 
 ## 🎯 Objectives
