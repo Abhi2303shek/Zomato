@@ -111,7 +111,7 @@ Key steps performed:
 
 ## 📁 Project Structure
 
-📦 Zomato
+📦 Zomato-analysis
 ┣ 📂 notebooks
 ┃ ┗ Zomato.ipynb
 ┃ ┗ Zomato_Visuals.ipynb
