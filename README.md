@@ -1,7 +1,7 @@
 # 🍽️ Zomato Market & Restaurant Analysis
 
 ## 📌 Project Overview
-This project performs an end-to-end **data cleaning and exploratory analysis** on large-scale restaurant data from **:contentReference[oaicite:0]{index=0}**, covering **123,000+ restaurant records across 50+ cities**.
+This project performs end-to-end **data cleaning and exploratory analysis** on large-scale restaurant data, encompassing **over 123,000 restaurant records across 50+ cities**.
 
 The analysis focuses on understanding **city-wise restaurant density, pricing behaviour, ratings, cuisine distribution, and online delivery trends**, converting raw marketplace data into **business-relevant insights**.
 
